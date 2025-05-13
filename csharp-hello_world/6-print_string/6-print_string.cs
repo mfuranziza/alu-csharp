@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string str = "Holberton School";
-Console.WriteLine("{0}{0}{0}", str);
-Console.WriteLine(str.Substring(0, 9));
+string str1 = "Holberton";
+string str2 = "School";
+str1 = "Welcome to " + str1 + " " + str2 + "!";
+Console.WriteLine(str1);
