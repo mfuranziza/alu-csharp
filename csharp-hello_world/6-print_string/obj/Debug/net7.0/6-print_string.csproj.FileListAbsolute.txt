@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/refint/6-print_string.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/ref/6-print_string.dll
