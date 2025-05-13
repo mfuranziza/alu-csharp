@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/net7.0/4-print_integer.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/refint/4-print_integer.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/4-print_integer.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/net7.0/ref/4-print_integer.dll
