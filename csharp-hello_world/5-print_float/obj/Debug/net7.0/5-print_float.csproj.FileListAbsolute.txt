@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/refint/5-print_float.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/ref/5-print_float.dll
