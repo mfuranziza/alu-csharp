@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/refint/11-concat_edges.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/ref/11-concat_edges.dll
