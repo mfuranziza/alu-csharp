@@ -1,19 +1,16 @@
 ﻿using System;
 
-namespace _4_print_hexa
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        string output = "";
+        
+        for (int i = 0; i <= 98; i++)
         {
-            string output = "";
-            
-            for (int i = 0; i <= 98; i++)
-            {
-                output += $"{i} = 0x{i:x}\n";
-            }
-            
-            Console.Write(output);
+            output += $"{i} = 0x{i:x}\n";
         }
+        
+        Console.Write(output);
     }
 }

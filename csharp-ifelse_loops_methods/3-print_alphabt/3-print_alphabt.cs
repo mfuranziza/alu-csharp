@@ -1,20 +1,17 @@
 ﻿using System;
 
-namespace _3_print_alphabt
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        string output = "";
+        
+        for (char c = 'a'; c <= 'z'; c++)
         {
-            string output = "";
-            
-            for (char c = 'a'; c <= 'z'; c++)
-            {
-                if (c != 'q' && c != 'e')
-                    output += c;
-            }
-            
-            Console.Write(output);
+            if (c != 'q' && c != 'e')
+                output += c;
         }
+        
+        Console.Write(output);
     }
 }
