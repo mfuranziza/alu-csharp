@@ -5,6 +5,6 @@ class Program
     {
         string str1 = "Mission Street";
         int int1 = 972;
-        Console.WriteLine("{0} {1} {2}", number, str1);
+        Console.WriteLine("{0} {1}", int1, str1);
     }
 }
