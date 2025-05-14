@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/refint/9-print_specifiers.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/ref/9-print_specifiers.dll
