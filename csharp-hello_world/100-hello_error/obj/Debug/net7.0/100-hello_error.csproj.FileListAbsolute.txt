@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net7.0/100-hello_error
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net7.0/100-hello_error.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net7.0/100-hello_error.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net7.0/100-hello_error.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net7.0/100-hello_error.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/refint/100-hello_error.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/100-hello_error.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net7.0/ref/100-hello_error.dll
