@@ -30,23 +30,29 @@ public class MyStack
         
         if (contains)
         {
+            Stack<string> tempStack = new Stack<string>();
             string[] items = new string[aStack.Count];
             aStack.CopyTo(items, 0);
+            
             aStack.Clear();
             
-            int searchIndex = -1;
+            bool foundSearch = false;
             for (int i = 0; i < items.Length; i++)
             {
                 if (items[i] == search)
                 {
-                    searchIndex = i;
+                    foundSearch = true;
                     break;
+                }
+                if (!foundSearch)
+                {
+                    tempStack.Push(items[i]);
                 }
             }
             
-            for (int i = items.Length - 1; i > searchIndex; i--)
+            while (tempStack.Count > 0)
             {
-                aStack.Push(items[i]);
+                aStack.Push(tempStack.Pop());
             }
         }
         
