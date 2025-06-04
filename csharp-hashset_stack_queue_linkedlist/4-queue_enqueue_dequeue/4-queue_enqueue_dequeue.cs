@@ -34,6 +34,8 @@ public class MyQueue
         {
             string[] items = new string[aQueue.Count];
             aQueue.CopyTo(items, 0);
+            
+            string firstItem = aQueue.Dequeue();
             aQueue.Clear();
             
             int searchIndex = -1;
