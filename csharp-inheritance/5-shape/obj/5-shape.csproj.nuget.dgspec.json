@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\5-shape\\5-shape.csproj": {}
+    "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/5-shape/5-shape.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\5-shape\\5-shape.csproj": {
+    "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/5-shape/5-shape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\5-shape\\5-shape.csproj",
+        "projectUniqueName": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/5-shape/5-shape.csproj",
         "projectName": "5-shape",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\5-shape\\5-shape.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\5-shape\\obj\\",
+        "projectPath": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/5-shape/5-shape.csproj",
+        "packagesPath": "/Users/aimelyse/.nuget/packages/",
+        "outputPath": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/5-shape/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/aimelyse/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
         }
       }
     }

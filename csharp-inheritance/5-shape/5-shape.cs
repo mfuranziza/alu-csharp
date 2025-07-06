@@ -13,4 +13,8 @@ public class Shape
     {
         throw new NotImplementedException("Area() is not implemented");
     }
+    static void Main(string[] args)
+        {
+        }
+
 }
