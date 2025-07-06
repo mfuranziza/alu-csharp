@@ -1,15 +1,16 @@
 ﻿using System;
 
-namespace ShapesLib
+/// <summary>
+/// Base class Shape
+/// </summary>
+public class Shape
 {
-    public class Shape
+    /// <summary>
+    /// Virtual method Area() to be overridden by derived classes
+    /// </summary>
+    /// <returns>Throws NotImplementedException</returns>
+    public virtual int Area()
     {
-        public virtual int Area()
-        {
-            throw new NotImplementedException("Area() is not implemented");
-        }
-         static void Main(string[] args)
-        {
-        }
+        throw new NotImplementedException("Area() is not implemented");
     }
 }
