@@ -1,0 +1,14 @@
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfoInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfo.cs
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.CoreCompileInputs.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.deps.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.runtimeconfig.json
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/refint/3-type_get.dll
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.pdb
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.genruntimeconfig.cache
+/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/ref/3-type_get.dll

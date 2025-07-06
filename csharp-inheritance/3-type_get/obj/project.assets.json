@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "/Users/aimelyse/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\3-type_get\\3-type_get.csproj",
+      "projectUniqueName": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/3-type_get.csproj",
       "projectName": "3-type_get",
-      "projectPath": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\3-type_get\\3-type_get.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Documents\\alu-csharp\\csharp-inheritance\\3-type_get\\obj\\",
+      "projectPath": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/3-type_get.csproj",
+      "packagesPath": "/Users/aimelyse/.nuget/packages/",
+      "outputPath": "/Users/aimelyse/Documents/Projects/EDUCATION/alu-csharp/csharp-inheritance/3-type_get/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/aimelyse/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
       }
     }
   }
