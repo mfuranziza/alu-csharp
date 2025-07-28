@@ -3,53 +3,34 @@
 /// <summary>
 /// Provides mathematical operations for matrices
 /// </summary>
+
 public class MatrixMath
 {
-    /// <summary>
-    /// Rotates a 2D matrix by a given angle in radians
-    /// </summary>
-    /// <param name="matrix">The 2D matrix to rotate (must have exactly 2 columns representing x,y coordinates)</param>
-    /// <param name="angle">The angle in radians to rotate by</param>
-    /// <returns>A new matrix with rotated values, or a matrix containing -1 if the input matrix is invalid</returns>
-    /// <remarks>
-    /// This method applies rotation to the VALUES of each element in the matrix, not the positions.
-    /// Each row represents a point (x, y) that gets rotated using the rotation matrix formula:
-    /// x' = x * cos(angle) - y * sin(angle)
-    /// y' = x * sin(angle) + y * cos(angle)
-    /// </remarks>
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        // Check if matrix is null
-        if (matrix == null)
-            return new double[,] { { -1 } };
-
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
 
-        // Invalid matrix check - must have exactly 2 columns and at least 1 row
+        // Validate input matrix size
         if (cols != 2 || rows < 1)
             return new double[,] { { -1 } };
 
         double[,] result = new double[rows, 2];
-        double cos = Math.Round(Math.Cos(angle), 15);
-        double sin = Math.Round(Math.Sin(angle), 15);
+        double cos = Math.Cos(angle);
+        double sin = Math.Sin(angle);
 
         for (int i = 0; i < rows; i++)
         {
             double x = matrix[i, 0];
             double y = matrix[i, 1];
 
-            // Apply 2D rotation transformation with higher precision
-            decimal xDecimal = (decimal)x;
-            decimal yDecimal = (decimal)y;
-            decimal cosDecimal = (decimal)cos;
-            decimal sinDecimal = (decimal)sin;
+            // Apply rotation transformation
+            double rotatedX = x * cos - y * sin;
+            double rotatedY = x * sin + y * cos;
 
-            decimal rotatedX = xDecimal * cosDecimal - yDecimal * sinDecimal;
-            decimal rotatedY = xDecimal * sinDecimal + yDecimal * cosDecimal;
-
-            result[i, 0] = (double)Math.Round(rotatedX, 2, MidpointRounding.AwayFromZero);
-            result[i, 1] = (double)Math.Round(rotatedY, 2, MidpointRounding.AwayFromZero);
+            // Round only final results
+            result[i, 0] = Math.Round(rotatedX, 2, MidpointRounding.AwayFromZero);
+            result[i, 1] = Math.Round(rotatedY, 2, MidpointRounding.AwayFromZero);
         }
 
         return result;
