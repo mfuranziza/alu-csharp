@@ -31,24 +31,25 @@ public class MatrixMath
             return new double[,] { { -1 } };
 
         double[,] result = new double[rows, 2];
-        double cos = Math.Cos(angle);
-        double sin = Math.Sin(angle);
+        double cos = Math.Round(Math.Cos(angle), 15);
+        double sin = Math.Round(Math.Sin(angle), 15);
 
         for (int i = 0; i < rows; i++)
         {
             double x = matrix[i, 0];
             double y = matrix[i, 1];
 
-            // Apply 2D rotation transformation
-            double rotatedX = x * cos - y * sin;
-            double rotatedY = x * sin + y * cos;
+            // Apply 2D rotation transformation with higher precision
+            decimal xDecimal = (decimal)x;
+            decimal yDecimal = (decimal)y;
+            decimal cosDecimal = (decimal)cos;
+            decimal sinDecimal = (decimal)sin;
 
-            // Handle floating-point precision by rounding to more precision first, then to 2 decimals
-            rotatedX = Math.Round(rotatedX, 10);
-            rotatedY = Math.Round(rotatedY, 10);
+            decimal rotatedX = xDecimal * cosDecimal - yDecimal * sinDecimal;
+            decimal rotatedY = xDecimal * sinDecimal + yDecimal * cosDecimal;
 
-            result[i, 0] = Math.Round(rotatedX, 2, MidpointRounding.AwayFromZero);
-            result[i, 1] = Math.Round(rotatedY, 2, MidpointRounding.AwayFromZero);
+            result[i, 0] = (double)Math.Round(rotatedX, 2, MidpointRounding.AwayFromZero);
+            result[i, 1] = (double)Math.Round(rotatedY, 2, MidpointRounding.AwayFromZero);
         }
 
         return result;
