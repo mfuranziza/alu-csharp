@@ -43,9 +43,12 @@ public class MatrixMath
             double rotatedX = x * cos - y * sin;
             double rotatedY = x * sin + y * cos;
 
-            // Try different rounding approach - round towards negative infinity for precision
-            result[i, 0] = Math.Round(rotatedX + 0.000001, 2, MidpointRounding.AwayFromZero);
-            result[i, 1] = Math.Round(rotatedY + 0.000001, 2, MidpointRounding.AwayFromZero);
+            // Handle floating-point precision by rounding to more precision first, then to 2 decimals
+            rotatedX = Math.Round(rotatedX, 10);
+            rotatedY = Math.Round(rotatedY, 10);
+
+            result[i, 0] = Math.Round(rotatedX, 2, MidpointRounding.AwayFromZero);
+            result[i, 1] = Math.Round(rotatedY, 2, MidpointRounding.AwayFromZero);
         }
 
         return result;
