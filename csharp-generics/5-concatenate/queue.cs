@@ -130,21 +130,20 @@ public void Print() {
         }
 
         if(CheckType() != typeof(String)  && CheckType() != typeof(Char)){
-            Console.WriteLine("Concatenate() is for a queue of Strings or Chars");
+            Console.WriteLine("Concatenate() is for a queue of Strings or Chars only.");
             return null;
         }
 
         String outputValue = "";
+Node? current = head;
 
-         for(int i = 0; i < count ; i ++){
-            
-           
-            outputValue += head!.Value;
-             if(CheckType() == typeof(string)){
-               outputValue += " "; 
-            }
-            head = head!.Next;
-        }
+for(int i = 0; i < count; i++){
+    outputValue += current!.Value;
+    if(CheckType() == typeof(String) && i < count - 1){
+        outputValue += " "; 
+    }
+    current = current!.Next;
+}
 
         return outputValue;
 
